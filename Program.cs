@@ -8,6 +8,7 @@ namespace ConsoleApp3
 {
     class Program
     {
+        public string branch_1;
         static void Main(string[] args)
         {
             Console.WriteLine("commit_1");

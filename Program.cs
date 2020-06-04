@@ -11,6 +11,8 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("commit_1");
+            Console.WriteLine("commit_1_1");
+            Console.WriteLine("commit_2");
         }
     }
 }

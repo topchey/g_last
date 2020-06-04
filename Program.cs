@@ -13,6 +13,7 @@ namespace ConsoleApp3
             Console.WriteLine("commit_1");
             Console.WriteLine("commit_1_1");
             Console.WriteLine("commit_2");
+            Console.WriteLine("commit_3");
         }
     }
 }
